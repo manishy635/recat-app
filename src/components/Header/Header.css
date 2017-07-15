@@ -1,0 +1,38 @@
+.header img{
+    height: 80px;
+    padding-top: 20px;
+}
+
+.header ul{
+    background-color: black;
+    height: 30px;
+    line-height: 30px;
+    color: white;
+    text-align: left;
+}
+
+.header li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.header li a{
+    padding: 5px 20px;  
+    color:white;  
+    text-decoration:none;
+}
+
+.header li:hover{
+    background-color:lightgrey;
+    color: black;
+}
+
+.header a{
+    text-decoration: none;
+}
+
+.header a:visited{
+    color: white;
+}
+

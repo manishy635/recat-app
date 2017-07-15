@@ -1,0 +1,11 @@
+.shop-container{
+    display: flex;
+    padding-left: 200px;
+}
+
+.items-container{
+    width: 80%;
+    border-right: 1px solid lightgrey;
+}
+
+
